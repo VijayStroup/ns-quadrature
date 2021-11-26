@@ -1,4 +1,4 @@
-<a href="https://vijaystroup.github.io/ns-quadrature/index.html" target="_blank" style="color:red;font-weight:bold;text-align:center;"><p>
+<a href="https://vijaystroup.github.io/ns-quadrature" target="_blank" style="color:red;font-weight:bold;text-align:center;"><p>
 Note: not all content may be viewable by GitHub's preview of markdown and notebook files. It is best to view the whole analysis through the pdf provided here.
 </p></a>
 <h1 style="text-align:center;">NS Wave Quadrature Analysis</h1>
